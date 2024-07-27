@@ -1,4 +1,5 @@
-# pdf-sanitize
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# pdf-sanitizer
 Get rid of unwanted JavaScript and attachments in a PDF file
 
 ### Dependencies
